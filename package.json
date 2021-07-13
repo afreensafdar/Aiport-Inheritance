@@ -1,0 +1,22 @@
+{
+  "name": "airportinheritance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Aiport.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfreenSMohammed/AirportInheritance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfreenSMohammed/AirportInheritance/issues"
+  },
+  "homepage": "https://github.com/AfreenSMohammed/AirportInheritance#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
